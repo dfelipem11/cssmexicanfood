@@ -1,0 +1,71 @@
+
+.menu {
+    background-color: rgb(105, 172, 67);
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    margin: 0px;
+    text-align: center;
+}
+
+.menu h1{
+    letter-spacing: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    margin: 0%;
+}
+
+.menu ul{
+    list-style: none;
+    padding: 0;
+}
+
+.menu li{
+    display: inline-block;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 30px;
+    font-size: 22px;
+    letter-spacing: 2px;
+}
+
+.menu a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    color: rgb(105, 172, 67);
+    font-size: 35px;
+    letter-spacing: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    color: rgb(105, 172, 67);
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto{
+    font-size: 23px;
+}
+
+.ilustracion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagen{
+    max-width: 400px;
+}
+
+
+.lista li{
+    font-size: 22px;
+}
+
+.como li{
+    font-size: 22px;
+}
+
